@@ -4,7 +4,7 @@
 
 ## AI Engineer Job Description [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.linkedin.com/jobs/view/3860957225/)
 
-## 1. Python Programming Language -1 Month
+## 1. Python Programming Language -1 Month (done)
 #### Python:
 ![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/20041231/211717885-0b1e049b-f5b3-457d-ba7a-9345ec3aa39c.png)
 
