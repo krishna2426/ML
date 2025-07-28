@@ -34,7 +34,7 @@ https://docs.python.org/release/3.12.0/
 ### Free Courses On Linear Algebra, Stats
 1. Linear Algebra: https://www.khanacademy.org/math/linear-algebra
 2. Statistics: https://www.khanacademy.org/math/statistics-probability
-3. Differential Equations: https://www.khanacademy.org/math/differential-equations
+3. Differential Equations: https://www.khanacademy.org/math/differential-equations.
 
 ### EDA
 1. EDA Live :[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
